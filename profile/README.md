@@ -6,7 +6,8 @@ Welcome to SEMIC! The Semantic Interoperability Community (SEMIC) is a vibrant n
 The SEMIC action started under the former ISA and ISA² Programme, which evolved into the [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe) programme, an initiative by the European Commission.
   
 ## Table of Contents  
-- [SEMIC Specification](#semic-specification)  
+- [SEMIC Specifications](#semic-specification)
+- [The SEMIC Style Guide & the SEMIC Core Vocabularies Handbook](#style-guide-handbook) 
 - [Usage Guidelines](#usage-guidelines)  
   - [Governance](#governance)
   - [Contributing and contact](#contributing)
@@ -195,6 +196,11 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
     </tr>      
   </table>      
 </details>  
+
+## <a name="style-guide-handbook"></a> The SEMIC Style Guide & the SEMIC Core Vocabularies Handbook
+The [SEMIC Style Guide](https://github.com/SEMICeu/style-guide) defines the style guide to be applied to the SEMIC’s semantic data specifications, notably to the eGovernment Core Vocabularies and Application Profiles. It provides rules on naming conventions, syntax, artefact management and organisation. It is meant to be complemented with technical artefacts and implementations that enable automatic conformance checking and transformation of conceptual models into formal semantic representations. The HTML representation of the SEMIC Style Guide can be found [here](https://semiceu.github.io/style-guide/1.0.0/index.html).
+
+The [SEMIC Core Vocabularies Handbook](https://github.com/SEMICeu/core-vocs-handbook) explains how to use SEMIC Core Vocabularies (CV) in a easy and transparent way. It is meant for the business users who want to understand where can the Core Vocabularies be useful, and for the semantic engineers who seek straightforward guidance suitable to specific use cases. The HTML representation of the SEMIC Core Vocabularies Handbook can be found [here](https://semiceu.github.io/core-vocs-handbook/public-review/index.html).
 
 ## <a name="usage-guidelines"></a> Usage Guidelines  
 This GitHub page contains all the SEMIC repositories. This includes the semantic assets such as Core Vocabularies & Application Profiles, but also internally developed tools, pilots, and much more.  
