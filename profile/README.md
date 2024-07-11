@@ -140,10 +140,10 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
 </details>    
 
 <details>      
-  <summary><b>Other specifications</b></summary>      
+  <summary><b>Other semantic specifications</b></summary>      
   <table>      
     <tr>      
-      <th>Other specifications</th>      
+      <th>Other semantic specifications</th>      
       <th>Description</th>      
     </tr> 
     <tr>  
@@ -200,7 +200,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
 ## <a name="style-guide-handbook"></a> The SEMIC Style Guide & the SEMIC Core Vocabularies Handbook
 The [SEMIC Style Guide](https://github.com/SEMICeu/style-guide) defines the style guide to be applied to the SEMIC’s semantic data specifications, notably to the eGovernment Core Vocabularies and Application Profiles. It provides rules on naming conventions, syntax, artefact management and organisation. It is meant to be complemented with technical artefacts and implementations that enable automatic conformance checking and transformation of conceptual models into formal semantic representations. The HTML representation of the SEMIC Style Guide can be found [here](https://semiceu.github.io/style-guide/1.0.0/index.html).
 
-The [SEMIC Core Vocabularies Handbook](https://github.com/SEMICeu/core-vocs-handbook) explains how to use SEMIC Core Vocabularies (CV) in a easy and transparent way. It is meant for the business users who want to understand where can the Core Vocabularies be useful, and for the semantic engineers who seek straightforward guidance suitable to specific use cases. The HTML representation of the SEMIC Core Vocabularies Handbook can be found [here](https://semiceu.github.io/core-vocs-handbook/public-review/index.html).
+The [SEMIC Core Vocabularies Handbook](https://joinup.ec.europa.eu/sites/default/files/inline-files/ISA%20Handbook%20for%20using%20Core%20Vocabularies.pdf) explains the usage of the SEMIC Core Vocabularies (CV) in a easy and transparent way. It is meant for business users who want to understand where the Core Vocabularies can be useful, and for semantic engineers who seek straightforward guidance suitable to specific use cases. A new version of the SEMIC Core Vocabularies is under development and can be found [here](https://github.com/SEMICeu/core-vocs-handbook).
 
 ## <a name="usage-guidelines"></a> Usage Guidelines  
 This GitHub page contains all the SEMIC repositories. This includes the semantic assets such as Core Vocabularies & Application Profiles, but also internally developed tools, pilots, and much more.  
