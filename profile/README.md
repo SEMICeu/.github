@@ -1,4 +1,4 @@
-# Welcome to the SEMIC GitHub page! <img align="right" src="https://github.com/SEMICeu/.github/blob/main/profile/images/SEMIC%20logo.png" width="110" height="110">
+# Welcome to the SEMIC GitHub page! <img align="right" src="https://github.com/SEMICeu/.github/blob/main/profile/images/SEMIC%20logo.png" width="100" height="100">
 
 ## What is SEMIC?  
 Welcome to SEMIC! The Semantic Interoperability Community (SEMIC) is a vibrant network of experts and practitioners dedicated to advancing semantic interoperability across Europe. Our mission is to enhance the sharing and reuse of data and services, supported by SEMIC specifications, innovative pilots, and a rich knowledge hub. Join us in shaping the future of seamless data exchange!  
@@ -142,7 +142,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
   <summary><b>Other specifications</b></summary>      
   <table>      
     <tr>      
-      <th>Other solutions</th>      
+      <th>Other specifications</th>      
       <th>Description</th>      
     </tr> 
     <tr>  
