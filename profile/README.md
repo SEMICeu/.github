@@ -317,7 +317,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
 <td>  
 <p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>  
 </td>  
-<td>&nbsp;</td>  
+<td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>  
 </tr>  
 <tr>  
 <td>  
