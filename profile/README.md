@@ -16,7 +16,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
 ## <a name="semic-specification"></a> SEMIC Specifications
 *Use the dropdown menus to display the content within each category.*
 <details>      
-  <summary><b>Core Vocabularies and their Application Profiles</b></summary 
+  <summary><b>Core Vocabularies and their Application Profiles</b></summary>
   <table>      
     <tr>      
       <th>Specification</th>      
