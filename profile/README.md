@@ -255,7 +255,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
                 <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap/tree/dev">ISO:19139 to DCAT-AP PoC</a></u></p>  
             </td>  
             <td>  
-                <p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>  
+                <p>A proof of concept for the transformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>  
             </td>  
             <td>  
                 <p>Completed in 2024</p>  
