@@ -216,13 +216,8 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p><strong>Description</strong></p>
             </td>
-        </tr>
-        <tr>
             <td>
-                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_xborderChatbotPilot_EpirusBelgium">Crossborder CPSV-AP Chatbot Pilot (Epirus-Belgium)</a></u></p>
-            </td>
-            <td>
-                <p>A pilot around using CPSV-AP to develop chatbots about public services.</p>
+                <p><strong>Last modification date</strong></p>
             </td>
         </tr>
         <tr>
@@ -232,6 +227,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A federal catalogue of public services, compiling public service descriptions at the Walloon, Flemish and federal levels, all displayed on a user-friendly and easily searchable webpage.</p>
             </td>
+            <td>
+              <p>31/07/2018</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -240,6 +238,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Estonia and Finland are harvested, transformed and displayed on a user-friendly webpage.</p>
             </td>
+            <td>
+              <p>30/07/2018</p>
+            </td>          
         </tr>
         <tr>
             <td>
@@ -247,6 +248,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             </td>
             <td>
                 <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Spain and Portugal are harvested, transformed and displayed on a user-friendly webpage.</p>
+            </td>
+            <td>
+              <p>13/09/2018</p>
             </td>
         </tr>
         <tr>
@@ -256,6 +260,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>
             </td>
+            <td>
+              <p>21/11/2020</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -263,6 +270,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             </td>
             <td>
                 <p>A proof-of-concept for the HTML+RDFa representation of metadata based on&nbsp;DCAT-AP, and related extensions (as&nbsp;GeoDCAT-AP).</p>
+            </td>
+            <td>
+              <p>01/05/2021</p>
             </td>
         </tr>
         <tr>
@@ -272,6 +282,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>Pilot to develop a reusable proof of concept, to demonstrate the benefits of publishing legal information as (linked) open data, using the ELI ontology.</p>
             </td>
+            <td>
+              <p>23/06/2016</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -279,6 +292,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             </td>
             <td>
                 <p>Configurations for OpenRefine to transform Excel Epirus data into CPSV-AP.</p>
+            </td>
+            <td>
+              <p>21/02/2018</p>
             </td>
         </tr>
         <tr>
@@ -288,21 +304,8 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A a proof-of-concept for the RDF representation of the OGC EPSG register of coordinate reference systems, extending the RDF mappings for reference systems defined in GeoDCAT-AP.</p>
             </td>
-        </tr>
-        <tr>
             <td>
-                <p><u><a href="https://github.com/SEMICeu/FTS_pilot">FTS Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A python script to transform Excel to RDF according to a custom Financial Transparency System data model</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/gr-pilot">GR Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A Python script to transform data from the Greek registry from CSV to RDF.</p>
+              <p>01/05/2021</p>
             </td>
         </tr>
         <tr>
@@ -312,13 +315,19 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A proof-of-concept for the RDF representation of the&nbsp;IANA registry, generated from its XML distributions.</p>
             </td>
+            <td>
+              <p>21/05/2021</p>
+            </td>
         </tr>
         <tr>
             <td>
-                <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap">ISO:19139 to DCAT-AP PoC</a></u></p>
+                <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap/tree/dev">ISO:19139 to DCAT-AP PoC</a></u></p>
             </td>
             <td>
                 <p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>
+            </td>
+            <td>
+              <p>12/07/2024</p>
             </td>
         </tr>
         <tr>
@@ -326,6 +335,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
                 <p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>
             </td>
             <td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>
+            <td>
+              <p>12/03/2024</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -334,29 +346,8 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A pilot to convert existig Word-based NIFO factsheets into structured data following the Resource Description Framework (RDF).</p>
             </td>
-        </tr>
-        <tr>
             <td>
-                <p><u><a href="https://github.com/SEMICeu/NUTS_pilot">NUTS Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A Python/PHP application to convert and display NUTS data from spreadsheet.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/SDG-PoC-on-Automatic-Tagging">PoC on automattic tagging</a></u></p>
-            </td>
-            <td>
-                <p>An OpenAPI which allows to classify text according to SDG policy classification.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/qualification-pilot">Qualification Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A web application to display Qualifications.</p>
+              <p>27/09/2023</p>
             </td>
         </tr>
         <tr>
@@ -366,6 +357,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A software development kit for the Solid protocol.</p>
             </td>
+            <td>
+              <p>07/05/2024</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -374,6 +368,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p>A proof-of-concept on the use of text mining for the analysis of pledges on the Transition Pathway for Tourism.</p>
             </td>
+            <td>
+              <p>17/10/2023</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -381,6 +378,9 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             </td>
             <td>
                 <p>A proof-of-concept for automated testing based on CPSV-AP Creator.</p>
+            </td>
+            <td>
+              <p>15/05/2019</p>
             </td>
         </tr>
     </tbody>
