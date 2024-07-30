@@ -200,7 +200,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
           <img src="https://github.com/SEMICeu/.github/blob/main/profile/images/STR-AP.png" alt="Short Term Rentals Application Profile (STR-AP)" width="75" height="75">  
         </p>  
       </td>      
-      <td>The<a href="https://github.com/SEMICeu/STR-AP">Short-Term Rental Application Profile (STR-AP)</a> harmonises and streamlines the framework for data generation and data sharing on short-term accommodation rental services across the EU.</td>      
+      <td>The<a href="https://github.com/SEMICeu/STR-AP"> Short-Term Rental Application Profile (STR-AP)</a> harmonises and streamlines the framework for data generation and data sharing on short-term accommodation rental services across the EU.</td>      
     </tr>      
   </table> 
   
