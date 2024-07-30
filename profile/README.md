@@ -207,184 +207,184 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
 </details>  
 <details>      
   <summary><b>Pilots & Proof-of-Concepts</b></summary>      
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <p><strong>Name</strong></p>
-            </td>
-            <td>
-                <p><strong>Description</strong></p>
-            </td>
-            <td>
-                <p><strong>Last modification date</strong></p>
-            </td>
+<table>  
+    <tbody>  
+        <tr>  
+            <td>  
+                <p><strong>Name</strong></p>  
+            </td>  
+            <td>  
+                <p><strong>Description</strong></p>  
+            </td>  
+            <td>  
+                <p><strong>Status</strong></p>  
+            </td>  
+        </tr>  
+        <tr>  
+              <td>  
+                  <p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>  
+              </td>  
+              <td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>  
+              <td>  
+                  <p>Ongoing</p>  
+              </td>  
+        </tr> 
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/SDK-Solid">SDK Solid PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A software development kit for the Solid protocol.</p>  
+            </td>  
+            <td>  
+                <p>Ongoing</p>  
+            </td> 
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/semic_pledges">Text Mining on GROW Tourism Pledges Pilot</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept on the use of text mining for the analysis of pledges on the Transition Pathway for Tourism.</p>  
+            </td>  
+            <td>  
+                <p>Ongoing</p>  
+            </td>  
         </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_federalPilot_Belgium">Crossborder CPSV-AP Federal Harvester Pilot (Belgium)</a></u></p>
-            </td>
-            <td>
-                <p>A federal catalogue of public services, compiling public service descriptions at the Walloon, Flemish and federal levels, all displayed on a user-friendly and easily searchable webpage.</p>
-            </td>
-            <td>
-              <p>31/07/2018</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_Estonia_Finland">Crossborder CPSV-AP Harvester Pilot (Estonia-Finland)</a></u></p>
-            </td>
-            <td>
-                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Estonia and Finland are harvested, transformed and displayed on a user-friendly webpage.</p>
-            </td>
-            <td>
-              <p>30/07/2018</p>
-            </td>          
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_PortugalSpain">Crossborder CPSV-AP Harvester Pilot (Portugal-Spain)</a></u></p>
-            </td>
-            <td>
-                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Spain and Portugal are harvested, transformed and displayed on a user-friendly webpage.</p>
-            </td>
-            <td>
-              <p>13/09/2018</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>
-            </td>
-            <td>
-                <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>
-            </td>
-            <td>
-              <p>21/11/2020</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/dcat-ap-rdf2html">DCAT-AP RDF2HTML PoC</a></u></p>
-            </td>
-            <td>
-                <p>A proof-of-concept for the HTML+RDFa representation of metadata based on&nbsp;DCAT-AP, and related extensions (as&nbsp;GeoDCAT-AP).</p>
-            </td>
-            <td>
-              <p>01/05/2021</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/e-legislation-pilot">e-Legislation Pilot</a></u></p>
-            </td>
-            <td>
-                <p>Pilot to develop a reusable proof of concept, to demonstrate the benefits of publishing legal information as (linked) open data, using the ELI ontology.</p>
-            </td>
-            <td>
-              <p>23/06/2016</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/Epirus_pilot">Epirus Pilot</a></u></p>
-            </td>
-            <td>
-                <p>Configurations for OpenRefine to transform Excel Epirus data into CPSV-AP.</p>
-            </td>
-            <td>
-              <p>21/02/2018</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/epsg-to-rdf">EPSG to RDF PoC</a></u></p>
-            </td>
-            <td>
-                <p>A a proof-of-concept for the RDF representation of the OGC EPSG register of coordinate reference systems, extending the RDF mappings for reference systems defined in GeoDCAT-AP.</p>
-            </td>
-            <td>
-              <p>01/05/2021</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/iana-to-rdf">IANA to RDF PoC</a></u></p>
-            </td>
-            <td>
-                <p>A proof-of-concept for the RDF representation of the&nbsp;IANA registry, generated from its XML distributions.</p>
-            </td>
-            <td>
-              <p>21/05/2021</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap/tree/dev">ISO:19139 to DCAT-AP PoC</a></u></p>
-            </td>
-            <td>
-                <p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>
-            </td>
-            <td>
-              <p>12/07/2024</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>
-            </td>
-            <td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>
-            <td>
-              <p>12/03/2024</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/NIFO_pilot">NIFO Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A pilot to convert existig Word-based NIFO factsheets into structured data following the Resource Description Framework (RDF).</p>
-            </td>
-            <td>
-              <p>27/09/2023</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/SDK-Solid">SDK Solid PoC</a></u></p>
-            </td>
-            <td>
-                <p>A software development kit for the Solid protocol.</p>
-            </td>
-            <td>
-              <p>07/05/2024</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/semic_pledges">Text Mining on GROW Tourism Pledges Pilot</a></u></p>
-            </td>
-            <td>
-                <p>A proof-of-concept on the use of text mining for the analysis of pledges on the Transition Pathway for Tourism.</p>
-            </td>
-            <td>
-              <p>17/10/2023</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><u><a href="https://github.com/SEMICeu/Trento_conversionToRDF">Trento to RDF PoC</a></u></p>
-            </td>
-            <td>
-                <p>A proof-of-concept for automated testing based on CPSV-AP Creator.</p>
-            </td>
-            <td>
-              <p>15/05/2019</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+       <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap/tree/dev">ISO:19139 to DCAT-AP PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2024</p>  
+            </td>  
+        </tr> 
+        </tr>   
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/NIFO_pilot">NIFO Pilot</a></u></p>  
+            </td>  
+            <td>  
+                <p>A pilot to convert existig Word-based NIFO factsheets into structured data following the Resource Description Framework (RDF).</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2023</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2020</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/dcat-ap-rdf2html">DCAT-AP RDF2HTML PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept for the HTML+RDFa representation of metadata based on&nbsp;DCAT-AP, and related extensions (as&nbsp;GeoDCAT-AP).</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2021</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/epsg-to-rdf">EPSG to RDF PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A a proof-of-concept for the RDF representation of the OGC EPSG register of coordinate reference systems, extending the RDF mappings for reference systems defined in GeoDCAT-AP.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2021</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/iana-to-rdf">IANA to RDF PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept for the RDF representation of the&nbsp;IANA registry, generated from its XML distributions.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2021</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/Trento_conversionToRDF">Trento to RDF PoC</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept for automated testing based on CPSV-AP Creator.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2019</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_federalPilot_Belgium">Crossborder CPSV-AP Federal Harvester Pilot (Belgium)</a></u></p>  
+            </td>  
+            <td>  
+                <p>A federal catalogue of public services, compiling public service descriptions at the Walloon, Flemish and federal levels, all displayed on a user-friendly and easily searchable webpage.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2018</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_Estonia_Finland">Crossborder CPSV-AP Harvester Pilot (Estonia-Finland)</a></u></p>  
+            </td>  
+            <td>  
+                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Estonia and Finland are harvested, transformed and displayed on a user-friendly webpage.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2018</p>  
+            </td>            
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_PortugalSpain">Crossborder CPSV-AP Harvester Pilot (Portugal-Spain)</a></u></p>  
+            </td>  
+            <td>  
+                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Spain and Portugal are harvested, transformed and displayed on a user-friendly webpage.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2018</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/Epirus_pilot">Epirus Pilot</a></u></p>  
+            </td>  
+            <td>  
+                <p>Configurations for OpenRefine to transform Excel Epirus data into CPSV-AP.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2018</p>  
+            </td>  
+        </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/e-legislation-pilot">e-Legislation Pilot</a></u></p>  
+            </td>  
+            <td>  
+                <p>Pilot to develop a reusable proof of concept, to demonstrate the benefits of publishing legal information as (linked) open data, using the ELI ontology.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2016</p>  
+            </td>  
+        </tr>  
+    </tbody>  
+</table>   
 </details>
 
 ## <a name="style-guide-handbook"></a> The SEMIC Style Guide & the SEMIC Core Vocabularies Handbook
