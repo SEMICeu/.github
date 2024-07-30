@@ -258,7 +258,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
                 <p>A proof of concept for the transformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>  
             </td>  
             <td>  
-                <p>Completed in 2024</p>  
+                <p>Updated in 2024</p>  
             </td>  
         </tr> 
         </tr>   
@@ -272,18 +272,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>  
                 <p>Completed in 2023</p>  
             </td>  
-        </tr>  
-        <tr>  
-            <td>  
-                <p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>  
-            </td>  
-            <td>  
-                <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>  
-            </td>  
-            <td>  
-                <p>Completed in 2020</p>  
-            </td>  
-        </tr>  
+        </tr>   
         <tr>  
             <td>  
                 <p><u><a href="https://github.com/SEMICeu/dcat-ap-rdf2html">DCAT-AP RDF2HTML PoC</a></u></p>  
@@ -317,6 +306,17 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
                 <p>Completed in 2021</p>  
             </td>  
         </tr>  
+        <tr>  
+            <td>  
+                <p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>  
+            </td>  
+            <td>  
+                <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>  
+            </td>  
+            <td>  
+                <p>Completed in 2020</p>  
+            </td>  
+        </tr> 
         <tr>  
             <td>  
                 <p><u><a href="https://github.com/SEMICeu/Trento_conversionToRDF">Trento to RDF PoC</a></u></p>  
