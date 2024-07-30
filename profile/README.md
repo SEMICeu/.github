@@ -216,9 +216,6 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
             <td>
                 <p><strong>Description</strong></p>
             </td>
-            <td>
-                <p><strong>Last modification date</strong></p>
-            </td>
         </tr>
         <tr>
             <td>
