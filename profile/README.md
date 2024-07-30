@@ -94,15 +94,7 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
   <table>    
     <tr>    
       <th>Application Profiles</th>    
-      <th>Description</th>    
-    </tr>
-    <tr>    
-      <td>  
-        <p align="center">  
-          <img src="https://github.com/SEMICeu/.github/blob/main/profile/images/BRegDCAT-AP.png" alt="BRegDCAT-AP" width="75" height="75">  
-        </p>  
-      </td>    
-      <td><a href="https://github.com/SEMICeu/BRegDCAT-AP">BRegDCAT-AP</a> is an extension of DCAT-AP for describing base registries. It interconnects public services with base registries and their associated services.</td>    
+      <th>Description</th>
     </tr>
     <tr>    
       <td>  
@@ -111,6 +103,22 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
         </p>  
       </td>    
       <td>The <a href="https://github.com/SEMICeu/DCAT-AP">Data Catalogue Vocabulary Application Profile (DCAT-AP)</a> is a specification for metadata records, enhancing semantic interoperability across European data portals. Based on W3C's DCAT, it supports standardised dataset descriptions, enabling efficient data exchange and reuse.</td>    
+    </tr>
+    <tr>    
+      <td>  
+        <p align="center">  
+          <img src="https://github.com/SEMICeu/.github/blob/main/profile/images/DCAT-AP%20for%20HVD.png" alt="DCAT-AP-HVD" width="75" height="75">  
+        </p>  
+      </td>    
+      <td>The annex <a href="https://semiceu.github.io/DCAT-AP/releases/3.0.0-hvd/">DCAT-AP for High-Value Datasets</a> provides guidelines on how to use DCAT-AP taking into account the requirements imposed by the High-Value Dataset Implementing Regulation (HVD IR).</td>    
+    </tr>
+    <tr>    
+      <td>  
+        <p align="center">  
+          <img src="https://github.com/SEMICeu/.github/blob/main/profile/images/BRegDCAT-AP.png" alt="BRegDCAT-AP" width="75" height="75">  
+        </p>  
+      </td>    
+      <td><a href="https://github.com/SEMICeu/BRegDCAT-AP">BRegDCAT-AP</a> is an extension of DCAT-AP for describing base registries. It interconnects public services with base registries and their associated services.</td>    
     </tr>  
     <tr>    
       <td>  
@@ -192,197 +200,200 @@ The SEMIC action started under the former ISA and ISA² Programme, which evolved
           <img src="https://github.com/SEMICeu/.github/blob/main/profile/images/STR-AP.png" alt="Short Term Rentals Application Profile (STR-AP)" width="75" height="75">  
         </p>  
       </td>      
-      <td><a href="https://github.com/SEMICeu/STR-AP">STR-AP</a> is an Application Profile for harmonising and streamlining the framework for data generation and data sharing on short-term accommodation rental services across the EU.</td>      
+      <td>The<a href="https://github.com/SEMICeu/STR-AP">Short-Term Rental Application Profile (STR-AP)</a> harmonises and streamlines the framework for data generation and data sharing on short-term accommodation rental services across the EU.</td>      
     </tr>      
   </table> 
   
 </details>  
 <details>      
   <summary><b>Pilots & Proof-of-Concepts</b></summary>      
-<table>  
-<tbody>  
-<tr>  
-<td>  
-<p><strong>Name</strong></p>  
-</td>  
-<td>  
-<p><strong>Description</strong></p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/cpsv-ap_xborderChatbotPilot_EpirusBelgium">Crossborder CPSV-AP Chatbot Pilot (Epirus-Belgium)</a></u></p>  
-</td>  
-<td>  
-<p>A pilot around using CPSV-AP to develop chatbots about public services.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_federalPilot_Belgium">Crossborder CPSV-AP Federal Harvester Pilot (Belgium)</a></u></p>  
-</td>  
-<td>  
-<p>A federal catalogue of public services, compiling public service descriptions at the Walloon, Flemish and federal levels, all displayed on a user-friendly and easily searchable webpage.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_Estonia_Finland">Crossborder CPSV-AP Harvester Pilot (Estonia-Finland)</a></u></p>  
-</td>  
-<td>  
-<p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Estonia and Finland are harvested, transformed and displayed on a user-friendly webpage.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_PortugalSpain">Crossborder CPSV-AP Harvester Pilot (Portugal-Spain)</a></u></p>  
-</td>  
-<td>  
-<p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Spain and Portugal are harvested, transformed and displayed on a user-friendly webpage.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>  
-</td>  
-<td>  
-<p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/dcat-ap-rdf2html">DCAT-AP RDF2HTML PoC</a></u></p>  
-</td>  
-<td>  
-<p>A proof-of-concept for the HTML+RDFa representation of metadata based on&nbsp;DCAT-AP, and related extensions (as&nbsp;GeoDCAT-AP).</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/e-legislation-pilot">e-Legislation Pilot</a></u></p>  
-</td>  
-<td>  
-<p>Pilot to develop a reusable proof of concept, to demonstrate the benefits of publishing legal information as (linked) open data, using the ELI ontology.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/Epirus_pilot">Epirus Pilot</a></u></p>  
-</td>  
-<td>  
-<p>Configurations for OpenRefine to transform Excel Epirus data into CPSV-AP.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/epsg-to-rdf">EPSG to RDF PoC</a></u></p>  
-</td>  
-<td>  
-<p>A a proof-of-concept for the RDF representation of the OGC EPSG register of coordinate reference systems, extending the RDF mappings for reference systems defined in GeoDCAT-AP.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/FTS_pilot">FTS Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A python script to transform Excel to RDF according to a custom FTS data model</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/gr-pilot">GR Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A Python script to transform from CSV to RDF data from the Greek registry.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/iana-to-rdf">IANA to RDF PoC</a></u></p>  
-</td>  
-<td>  
-<p>A proof-of-concept for the RDF representation of the&nbsp;IANA registry, generated from its XML distributions.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap">ISO:19139 to DCAT-AP PoC</a></u></p>  
-</td>  
-<td>  
-<p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>  
-</td>  
-<td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/NIFO_pilot">NIFO Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A pilot to convert existig Word-based NIFO factsheets into structured data following the Resource Description Framework (RDF).</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/NUTS_pilot">NUTS Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A Python/PHP application to convert and display NUTS data from spreadsheet.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/SDG-PoC-on-Automatic-Tagging">PoC on automattic tagging</a></u></p>  
-</td>  
-<td>  
-<p>An OpenAPI which allows to classify text according to SDG policy classification.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/qualification-pilot">Qualification Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A web application to display Qualifications.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/SDK-Solid">SDK Solid PoC</a></u></p>  
-</td>  
-<td>  
-<p>A software development kit for the Solid protocol.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/semic_pledges">Text Mining on GROW Tourism Pledges Pilot</a></u></p>  
-</td>  
-<td>  
-<p>A proof-of-concept on the use of text mining for the analysis of pledges on the Transition Pathway for Tourism.</p>  
-</td>  
-</tr>  
-<tr>  
-<td>  
-<p><u><a href="https://github.com/SEMICeu/Trento_conversionToRDF">Trento to RDF PoC</a></u></p>  
-</td>  
-<td>  
-<p>A proof-of-concept for automated testing based on CPSV-AP Creator.</p>  
-</td>  
-</tr>  
-</tbody>  
-</table>  
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>Name</strong></p>
+            </td>
+            <td>
+                <p><strong>Description</strong></p>
+            </td>
+            <td>
+                <p><strong>Last modification date</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_xborderChatbotPilot_EpirusBelgium">Crossborder CPSV-AP Chatbot Pilot (Epirus-Belgium)</a></u></p>
+            </td>
+            <td>
+                <p>A pilot around using CPSV-AP to develop chatbots about public services.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_federalPilot_Belgium">Crossborder CPSV-AP Federal Harvester Pilot (Belgium)</a></u></p>
+            </td>
+            <td>
+                <p>A federal catalogue of public services, compiling public service descriptions at the Walloon, Flemish and federal levels, all displayed on a user-friendly and easily searchable webpage.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_Estonia_Finland">Crossborder CPSV-AP Harvester Pilot (Estonia-Finland)</a></u></p>
+            </td>
+            <td>
+                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Estonia and Finland are harvested, transformed and displayed on a user-friendly webpage.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/cpsv-ap_harvester_xborderPilot_PortugalSpain">Crossborder CPSV-AP Harvester Pilot (Portugal-Spain)</a></u></p>
+            </td>
+            <td>
+                <p>A cross-border catalogue of public services, i.e. a catalogue of public services at European level. Public service descriptions from Spain and Portugal are harvested, transformed and displayed on a user-friendly webpage.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/csw-4-web">CSW-4-Web</a></u></p>
+            </td>
+            <td>
+                <p>A proof-of-concept API designed to expose a&nbsp;CSW&nbsp;endpoint in a Web-friendly way, and enabling the exploration of its content without the need of specific client applications.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/dcat-ap-rdf2html">DCAT-AP RDF2HTML PoC</a></u></p>
+            </td>
+            <td>
+                <p>A proof-of-concept for the HTML+RDFa representation of metadata based on&nbsp;DCAT-AP, and related extensions (as&nbsp;GeoDCAT-AP).</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/e-legislation-pilot">e-Legislation Pilot</a></u></p>
+            </td>
+            <td>
+                <p>Pilot to develop a reusable proof of concept, to demonstrate the benefits of publishing legal information as (linked) open data, using the ELI ontology.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/Epirus_pilot">Epirus Pilot</a></u></p>
+            </td>
+            <td>
+                <p>Configurations for OpenRefine to transform Excel Epirus data into CPSV-AP.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/epsg-to-rdf">EPSG to RDF PoC</a></u></p>
+            </td>
+            <td>
+                <p>A a proof-of-concept for the RDF representation of the OGC EPSG register of coordinate reference systems, extending the RDF mappings for reference systems defined in GeoDCAT-AP.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/FTS_pilot">FTS Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A python script to transform Excel to RDF according to a custom Financial Transparency System data model</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/gr-pilot">GR Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A Python script to transform data from the Greek registry from CSV to RDF.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/iana-to-rdf">IANA to RDF PoC</a></u></p>
+            </td>
+            <td>
+                <p>A proof-of-concept for the RDF representation of the&nbsp;IANA registry, generated from its XML distributions.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/iso-19139-to-dcat-ap">ISO:19139 to DCAT-AP PoC</a></u></p>
+            </td>
+            <td>
+                <p>A proof of concept for the trasnformation of ISO:19139 to GeoDCAT-AP compliant metadata.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/LLM-for-Tourism">LLM for tourism PoC</a></u></p>
+            </td>
+            <td>A proof-of-concept on retraining Large Language Models (LLMs) with domain-specific data from the European public sector can enhance the performance and interpretability of AI in clustering pledges related to the Transition Pathway for Tourism.</td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/NIFO_pilot">NIFO Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A pilot to convert existig Word-based NIFO factsheets into structured data following the Resource Description Framework (RDF).</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/NUTS_pilot">NUTS Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A Python/PHP application to convert and display NUTS data from spreadsheet.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/SDG-PoC-on-Automatic-Tagging">PoC on automattic tagging</a></u></p>
+            </td>
+            <td>
+                <p>An OpenAPI which allows to classify text according to SDG policy classification.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/qualification-pilot">Qualification Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A web application to display Qualifications.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/SDK-Solid">SDK Solid PoC</a></u></p>
+            </td>
+            <td>
+                <p>A software development kit for the Solid protocol.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/semic_pledges">Text Mining on GROW Tourism Pledges Pilot</a></u></p>
+            </td>
+            <td>
+                <p>A proof-of-concept on the use of text mining for the analysis of pledges on the Transition Pathway for Tourism.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><u><a href="https://github.com/SEMICeu/Trento_conversionToRDF">Trento to RDF PoC</a></u></p>
+            </td>
+            <td>
+                <p>A proof-of-concept for automated testing based on CPSV-AP Creator.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 </details>
 
 ## <a name="style-guide-handbook"></a> The SEMIC Style Guide & the SEMIC Core Vocabularies Handbook
 The [SEMIC Style Guide](https://github.com/SEMICeu/style-guide) defines the style guide to be applied to the SEMIC’s semantic data specifications, notably to the eGovernment Core Vocabularies and Application Profiles. It provides rules on naming conventions, syntax, artefact management and organisation. It is meant to be complemented with technical artefacts and implementations that enable automatic conformance checking and transformation of conceptual models into formal semantic representations. The HTML representation of the SEMIC Style Guide can be found [here](https://semiceu.github.io/style-guide/1.0.0/index.html).
 
-The [SEMIC Core Vocabularies Handbook](https://joinup.ec.europa.eu/sites/default/files/inline-files/ISA%20Handbook%20for%20using%20Core%20Vocabularies.pdf) explains the usage of the SEMIC Core Vocabularies (CV) in a easy and transparent way. It is meant for business users who want to understand where the Core Vocabularies can be useful, and for semantic engineers who seek straightforward guidance suitable to specific use cases. A new version of the SEMIC Core Vocabularies is under development and can be found [here](https://github.com/SEMICeu/core-vocs-handbook).
+The [SEMIC Core Vocabularies Handbook](https://joinup.ec.europa.eu/sites/default/files/inline-files/ISA%20Handbook%20for%20using%20Core%20Vocabularies.pdf) explains the usage of the SEMIC Core Vocabularies (CV) in a easy and transparent way. It is meant for business users who want to understand where the Core Vocabularies can be useful, and for semantic engineers who seek straightforward guidance suitable to specific use cases.
 
 ## <a name="usage-guidelines"></a> Usage Guidelines  
 This GitHub page contains all the SEMIC repositories. This includes the semantic assets such as Core Vocabularies & Application Profiles, but also internally developed tools, pilots, and much more.  
